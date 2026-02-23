@@ -1,0 +1,1 @@
+I have experience in Python, Machine Learning, Deep Learning, Computer Vision, FastAPI, SQL, model deployment, data preprocessing and feature engineering.
